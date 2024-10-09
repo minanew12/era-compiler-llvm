@@ -7,10 +7,6 @@ or decentralization. As it's EVM-compatible (with Solidity/Vyper), 99% of Ethere
 needing to refactor or re-audit any code. ZKsync Era also uses an LLVM-based compiler that will eventually enable
 developers to write smart contracts in popular languages such as C++ and Rust.
 
-This directory and its sub-directories contain the source code for the ZKsync fork of the [LLVM](https://llvm.org) framework,
-a toolkit for the construction of highly optimized compilers, optimizers, and run-time environments
-used by the Solidity and Vyper compilers developed by Matter Labs.
-
 ## Overview
 
 Welcome to the ZKsync LLVM project!
